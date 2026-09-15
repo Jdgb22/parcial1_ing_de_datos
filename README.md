@@ -1,5 +1,5 @@
 # parcial1_ing_de_datos
-#Juan David Giraldo Benjumea
+# Juan David Giraldo Benjumea
 # Pipeline ETL: Ingesta y Procesamiento de Tasas de Cambio (Frankfurter API)
 
 ## 1. Propósito
